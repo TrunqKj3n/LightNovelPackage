@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.hoidap247.com/picture/question/20210510/large_1620650002696.jpg" alt="LightNovelApi-TTK" width="170" />
+<img src="https://64.media.tumblr.com/1edf6ad767c049a4c0e5ad10d5e9df8c/85af5d8f4091ab30-75/s400x600/12b3582eeca53e060580276588322f82413e5c9e.png" alt="LightNovelApi-TTK" width="170" />
 
 ## LN-TTK
 
