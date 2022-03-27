@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://img.hoidap247.com/picture/question/20210510/large_1620650002696.jpg" alt="LightNovelApi-TTK" width="170" />
 
-## TTK-NSFW
+## LN-TTK
 
 </div>
 
