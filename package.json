@@ -1,0 +1,34 @@
+{
+  "name": "ln-ttk",
+  "version": "1.0.0",
+  "description": "Doc tieu thuyet lightnovel",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TTKTrungKien/LightNovelPackage.git"
+  },
+  "keywords": [
+    "LightNovel"
+  ],
+  "author": "Thiệu Trung Kiên",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TTKTrungKien/LightNovelPackage/issues"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3",
+    "fs-extra": "^10.0.1",
+    "jsdom": "^19.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "homepage": "https://github.com/TTKTrungKien/LightNovelPackage#readme"
+}
